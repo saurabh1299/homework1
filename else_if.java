@@ -4,11 +4,11 @@ public class else_if {
 	public static void main(String[] args) 
 	{
 		int n=15;
-	if (n%2==78)
+	if (n%2<=78)
 	{
 		System.out.println("pass");
 	}
-	else if(n%6==78)
+	else if(n%6==1000)
 	{
 		System.out.println("saurabh");
 	}
@@ -16,7 +16,7 @@ public class else_if {
 	{
 		System.out.println("bidkar");
 	}
-	else
+	lse
 	System.out.println("advanto");
 	}
 }
